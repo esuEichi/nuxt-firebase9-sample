@@ -3,7 +3,7 @@
   - [Magic Spellslingers](https://store.steampowered.com/app/720090/Magic_Spellslingers/?l=japanese) というゲームのデッキレシピを投稿して検索できるサイトを作りました
     - [こちら](https://mtgadecks.web.app/spellslingers/decks/) で公開しています
 - firebase 9系のキャッチアップも兼ねています
-- 全然使われなかったのでポートフォリオとして公開します
+- 全然使われなかったので　nuxt と firebase 9系のサンプルとして公開します
 
 # 以下はnuxtのデフォルトの readme です
 ## Build Setup
