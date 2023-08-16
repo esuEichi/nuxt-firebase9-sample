@@ -1,7 +1,7 @@
 # これはなに
 - [esuEichi](https://github.com/esuEichi) が vue + firebase + firebase deploy の勉強を兼ねて 2022年の早い頃に作成したwebサービスです
   - [Magic Spellslingers](https://store.steampowered.com/app/720090/Magic_Spellslingers/?l=japanese) というゲームのデッキレシピを投稿して検索できるサイトを作りました
-    - url: https://mtgadecks.web.app/spellslingers/decks/
+    - [こちら](https://mtgadecks.web.app/spellslingers/decks/) で公開しています
 - firebase 9系のキャッチアップも兼ねています
 - 全然使われなかったのでポートフォリオとして公開します
 
