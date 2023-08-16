@@ -1,7 +1,7 @@
 # これはなに
-- (esuEichi)[https://github.com/esuEichi] が vue + firebase + firebase deploy の勉強を兼ねて 2022年の早い頃に作成したwebサービスです
-　- mtg spellslinger というゲームのデッキレシピを投稿して検索できるサイトを作りました
-  　- url: https://mtgadecks.web.app/spellslingers/decks/
+- [esuEichi](https://github.com/esuEichi) が vue + firebase + firebase deploy の勉強を兼ねて 2022年の早い頃に作成したwebサービスです
+  - mtg spellslinger というゲームのデッキレシピを投稿して検索できるサイトを作りました
+    - url: https://mtgadecks.web.app/spellslingers/decks/
 - firebase 9系のキャッチアップも兼ねています
 - 全然使われなかったのでポートフォリオとして公開します
 
